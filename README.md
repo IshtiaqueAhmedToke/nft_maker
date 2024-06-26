@@ -1,5 +1,3 @@
-Sure! Here is the entire README file in markdown format that you can copy and paste:
-
 ```markdown
 # Random SVG Avatar Generator
 
